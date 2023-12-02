@@ -1,7 +1,6 @@
-
 .name {
-  margin-left: 45%;
-  margin-top: 19.5%;
+  margin-left: 500px;
+  margin-top: 220px;
   color: black;
   font-weight: 900;
   font-family: bold sans-serif, dancing script, montecarlo;
@@ -9,8 +8,8 @@
   font-size: 21px;
 }
 .school_name{
-  margin-left: 35%;
-  margin-top: -.90%;
+  margin-left: 400px;
+  margin-top: -10px;
   color: black;
   font-weight: 900;
   font-family: bold sans-serif, dancing script, montecarlo;
@@ -18,8 +17,8 @@
   font-size: 21px;
 }
 .class{
-  margin-left: 33%;
-  margin-top: -.95%;
+  margin-left: 370px;
+  margin-top: -10px;
   color: black;
   font-weight: 900;
   font-family: bold sans-serif, dancing script, montecarlo;
